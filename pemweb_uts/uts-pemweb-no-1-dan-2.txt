@@ -1,0 +1,71 @@
+SOAL!
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+
+2. 
+- Sebutkan tema proyek yang sedang digarap!
+- Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+- Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung!
+
+JAWABAN!
+1. Framework pada pengembangan aplikasi adalah suatu struktur atau kerangka kerja yang menyediakan seperangkat alat, aturan, dan pedoman untuk mempermudah proses pengembangan perangkat lunak. 
+Framework membantu pengembang dalam merancang, mengembangkan, dan memelihara aplikasi dengan lebih efisien. Ada beberapa karakteristik umum dari sebuah framework:
+
+1). Struktur Organisasi: Framework menyediakan struktur organisasi untuk proyek pengembangan perangkat lunak. Ini mencakup pembagian tugas, modul, dan komponen-komponen yang membantu dalam merancang dan mengelola kode.
+
+2). Reusable Code: Framework menyediakan sejumlah besar kode yang dapat digunakan kembali. Pengembang dapat memanfaatkan modul-modul atau komponen-komponen yang sudah ada tanpa perlu menulis ulang kode yang serupa.
+
+3). Polanya: Framework biasanya memiliki pola atau aturan tertentu yang harus diikuti oleh pengembang. Ini membantu menjaga konsistensi dalam kode, memudahkan kolaborasi, dan mempercepat pengembangan.
+
+4). Library dan API: Framework seringkali menyediakan perpustakaan (library) dan antarmuka pemrograman aplikasi (API) yang mempermudah pengembang dalam mengakses berbagai fungsi atau layanan.
+
+5). Productivity: Salah satu tujuan utama dari penggunaan framework adalah meningkatkan produktivitas pengembang. Dengan menyediakan alat dan struktur yang telah siap pakai, pengembang dapat fokus pada logika bisnis aplikasi daripada membangun elemen-elemen dasar dari nol.
+
+Contoh beberapa framework yang populer dalam pengembangan aplikasi termasuk:
+
+- Web Development: Django (Python), Ruby on Rails (Ruby), Laravel (PHP).
+- Frontend Development: React, Angular, Vue.js.
+- Mobile Development: Flutter (Dart), React Native (JavaScript), Xamarin (C#).
+
+Pemilihan framework biasanya tergantung pada kebutuhan proyek, preferensi bahasa pemrograman, dan preferensi pengembang tim.
+
+2. 
+-Tema Proyek : Apotek.
+
+-Anggota : 
+- Alif Pebrian Syah Hera (22416255201055)
+Jobdesk : Coder 
+- Mochammad Rafly Ardiansyah Permana (22416255201011)
+Jobdesk : Database
+- Syakur Aristanto (22416255201298)   
+Jobdesk : Desain UML 
+
+-Permasalahan : 
+ 
+- Stok tidak terpantau.
+- Tidak bisa melihat penjualan yang sudah terjual.
+- Tidak bisa promosi ke masyarakat. 
+
+-Solusi :
+
+- Sistem Manajemen Stok:
+-Implementasikan sistem manajemen stok yang dapat memantau stok barang secara real-time. Gunakan teknologi barcode atau RFID untuk mempermudah pencatatan masuk dan keluar barang.
+-Integrasikan sistem manajemen stok dengan database untuk menyimpan informasi stok secara terstruktur dan dapat diakses dengan mudah.
+-Gunakan notifikasi atau peringatan otomatis untuk memberi tahu ketika stok mencapai batas minimum atau saat barang mendekati tanggal kedaluwarsa.
+
+- Sistem Pencatatan Penjualan:
+-Bangun sistem pencatatan penjualan yang dapat merekam setiap transaksi dengan detail, termasuk barang yang terjual, jumlah, waktu, dan metode pembayaran.
+-Implementasikan dashboard atau laporan penjualan untuk memantau kinerja penjualan secara keseluruhan. Grafik dan statistik dapat membantu analisis.
+
+- Sistem Promosi:
+-Kembangkan platform promosi online untuk mempromosikan produk atau layanan kepada masyarakat. Ini dapat berupa situs web e-commerce, aplikasi seluler, atau integrasi dengan platform media sosial.
+-Manfaatkan teknik-teknik pemasaran digital seperti SEO (Search Engine Optimization), kampanye iklan online, dan promosi melalui media sosial untuk meningkatkan visibilitas produk.
+
+- Integrasi Sistem:
+-Pastikan integrasi yang baik antara sistem manajemen stok, pencatatan penjualan, dan sistem promosi. Ini memungkinkan data yang saling terkait untuk diakses dengan mudah dan memberikan gambaran holistik tentang operasi bisnis.
+
+- Keamanan Informasi:
+-Pastikan sistem yang Anda bangun aman dan melibatkan praktik keamanan informasi. Proteksi data pelanggan dan informasi transaksi sangat penting untuk membangun kepercayaan.
+
+-Pelatihan dan Dukungan Pengguna:
+-Sediakan pelatihan kepada staf yang akan menggunakan sistem. Pastikan mereka memahami cara menggunakan setiap fitur dengan efektif.
+-Sediakan layanan dukungan pengguna yang responsif untuk membantu mengatasi masalah atau pertanyaan yang mungkin timbul selama penggunaan sistem.
