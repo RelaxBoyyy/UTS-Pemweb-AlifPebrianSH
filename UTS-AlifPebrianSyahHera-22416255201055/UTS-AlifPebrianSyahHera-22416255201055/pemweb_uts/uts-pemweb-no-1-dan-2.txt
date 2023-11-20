@@ -1,0 +1,38 @@
+SOAL!
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+
+2. 
+- Sebutkan tema proyek yang sedang digarap!
+- Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+- Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung!
+
+JAWABAN!
+1. Secara sederhana, sebuah "framework" dalam pengembangan aplikasi adalah kerangka kerja atau struktur 
+   yang telah disiapkan sebelumnya untuk membantu pengembang membuat aplikasi tanpa harus memulai dari 
+   awal setiap kali. Analoginya seperti rumah yang sudah memiliki kerangka atau struktur dasar, sehingga 
+   tidak perlu membangunnya dari nol setiap kali ingin membuat rumah baru.
+2. 1.  TEMA APOTEK
+   2.  Anggota :
+      - Alif Pebrian Syah Hera (22416255201055)
+      Jobdesk : Coder 
+      - Mochammad Rafly Ardiansyah Permana (22416255201011)
+      Jobdesk : Database
+      - Syakur Aristanto (22416255201298)   
+      Jobdesk : Desain UML  
+   3. -Permasalahan : 
+      - Stok tidak terpantau.
+      - Tidak bisa melihat penjualan yang sudah terjual.
+      - Tidak bisa promosi ke masyarakat. 
+
+   4. Solusi :
+   1) Stok tidak terpantau
+      - Sistem Manajemen Stok:
+         -sistem manajemen stok yang dapat memantau stok barang secara terperinci dan tepat waktu.
+         -membuat sistem manajemen stok dengan database untuk menyimpan informasi stok secara terstruktur dan dapat diakses dengan mudah.
+   2) Tidak bisa melihat penjualan yang sudah terjual.
+      - Sistem Pencatatan Penjualan:
+         -Bangun sistem pencatatan penjualan yang dapat merekam setiap transaksi dengan detail, termasuk barang yang terjual, jumlah, waktu, dan metode pembayaran.
+         -Implementasikan dashboard atau laporan penjualan untuk memantau kinerja penjualan secara keseluruhan. Grafik dan statistik dapat membantu analisis.
+   3) Tidak bisa promosi ke masyarakat
+      - Sistem Promosi:
+         -promosi akan ditampilkan di dasboard.
